@@ -77,23 +77,11 @@ li {
     text-align: center;
 }
 
-.contact-button {
-    display: inline-block;
-    padding: 1rem 2.5rem;
-    background-color: #9B59B6;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 25px;
-    margin-top: 1.5rem;
-    transition: all 0.3s ease;
+.contact-email {
+    font-size: 1.2rem;
+    color: #9B59B6;
+    margin-top: 1rem;
     font-weight: 500;
-    box-shadow: 0 4px 15px rgba(155, 89, 182, 0.3);
-}
-
-.contact-button:hover {
-    background-color: #8E44AD;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(155, 89, 182, 0.4);
 }
 
 footer {
